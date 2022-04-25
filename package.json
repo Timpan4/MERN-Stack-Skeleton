@@ -1,0 +1,10 @@
+{
+  "name": "MERN-Stack-Skeleton",
+  "version": "1.0.0",
+  "description": "MERN skeleton",
+  "main": "index.js",
+  "repository": "https://github.com/Timpan4/MERN-Stack-Skeleton",
+  "author": "Tim Aronsson",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.0"
+}
